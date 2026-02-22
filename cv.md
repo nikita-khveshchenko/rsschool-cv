@@ -28,3 +28,10 @@ My goal is to find a team where I can grow as a professional, solve real-world p
   * Responsive web design
   * Semantic HTML
   * Basic BEM methodology
+## Code example
+**CODEWARS** Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+```js
+function evenOrOdd(number) {
+  return number % 2 === 0 ? 'Even' : 'Odd';
+}
+```
