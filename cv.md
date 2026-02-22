@@ -35,3 +35,19 @@ function evenOrOdd(number) {
   return number % 2 === 0 ? 'Even' : 'Odd';
 }
 ```
+## Experience
+**Educational Projects**  
+* *To be added* – I am building small applications and landing pages to practice my skills.
+## Education
+**University**  
+
+Synergy University 2021-2026 (Moscow)  
+Field of study: Information Systems and Technology  
+*(degree not completed / expected graduation year – specify if you want)*
+
+**Courses & Self-Learning**  
+* HTML, CSS Basics – [Code Basics](https://code-basics.com/)  
+* JavaScript – [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
+## Languages
+* **Russian** - Native
+* **English** - Beginner (A1), actively learning (reading documentation, using language apps)
