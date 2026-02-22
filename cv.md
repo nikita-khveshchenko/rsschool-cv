@@ -6,7 +6,7 @@
 
 - **Phone:** +375(33)-666-33-89
 - **E-mail:** [nikita.khveshchenko@yandex.ru](mailto:nikita.khveshchenko@yandex.ru)
-- **Telegram:** [@tisvolwebnik](https://t.me/thisvolwebnik)
+- **Telegram:** [@thisvolwebnik](https://t.me/thisvolwebnik)
 - **Github:** [nikita-khveshchenko](https://github.com/nikita-khveshchenko)
 
 ## About me
@@ -23,7 +23,7 @@ My goal is to find a team where I can grow as a professional, solve real-world p
 
 - **Languages & Markup:**
   - HTML
-  - CSS(Saas/SCSS)
+  - CSS (Sass/SCSS)
   - JavaScript
 - **Tools & Platforms:**
   - VS Code
@@ -57,7 +57,6 @@ function evenOrOdd(number) {
 
 Synergy University 2021-2026 (Moscow)  
 Field of study: Information Systems and Technology  
-_(degree not completed / expected graduation year – specify if you want)_
 
 **Courses & Self-Learning**
 
